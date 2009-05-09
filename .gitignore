@@ -1,0 +1,25 @@
+doc
+log
+tmp
+coverage
+pkg
+test
+db/schema.rb
+db/*.sqlite3
+db/*_structure.sql
+config/database.yml
+config/initial_settings.yml
+.ditz-config
+*.dump
+
+vendor/gems/*
+
+# sass generates below
+public/stylesheets/application.css
+
+# application data.
+assets/uploaded_data/**/*
+
+\#*\#
+*~
+
